@@ -19,7 +19,7 @@
 Atualmente tenho 19 anos, estou na programação a 1 ano, 9 meses trabalhando com C e seus derivados (C++, C# com .NET)
 E nos ultimos 2 meses entrei em desenvolvimento Web, e simplesmente me apaixonei, criando API's rapidas e leves, e tentando trazer uma boa UI/UX, ainda estou em aprendizado e bastante contente com o futuro.
 
-Meu portfolio é um espelho do que eu realmente sei programar, meus projetos postadoss aqui NÃO são didaticos (projetos feitos com base em cursos), e sim projetos no qual eu tive a ideia e conceito, e apliquei em codigo.
+Meu portfolio é um espelho do que eu realmente sei programar, meus projetos postados aqui NÃO são didaticos (projetos feitos com base em cursos, ou com codigos simples e didaticos), e sim projetos no qual eu tive a ideia e conceito, e apliquei em codigo.
 E o caminho é apenas evoluir, todos os dias saindo da zona de conforto com o objetivo de melhorar minhas hardskills, e aplicando diversos conceitos e filosofias em relação aos meus projetos.
 
 Em relação a minhas softskills, sou bastante comunicativo, tenho uma boa habilidade social, e uma boa capacidade de lidar com pessoas, sei transimitir bem oque eu desejo falar
