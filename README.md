@@ -25,6 +25,6 @@ E o caminho é apenas evoluir, todos os dias saindo da zona de conforto com o ob
 Em relação a minhas softskills, sou bastante comunicativo, tenho uma boa habilidade social, e uma boa capacidade de lidar com pessoas, sei transimitir bem oque eu desejo falar
 e também sou um bom ouvinte.
 
-Amo café e uma boa musica ☕ 🎶
+Amo café e uma boa musica ☕ 🎶<br>
 Odeio ficar parado no tempo, então sempre busco novas tecnologias 👩‍💻 ❤
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
