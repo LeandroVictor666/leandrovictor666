@@ -1,36 +1,106 @@
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leandro-victor-da-silva-vilela-7654a326a/) 
+<div style="display: flex;flex-wrap:wrap;margin-bottom:15px">
+
+<a href="https://www.linkedin.com/in/leandro-victor-da-silva-vilela-7654a326a/" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" data-canonical-src="htt  ps://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+</div>
 
 # 💻 Tech Stack:
 ## Front-End
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br>
+<div style="display: flex;flex-wrap:wrap">
+<!-- HTML5 -->
+<a href="https://html.spec.whatwg.org/multipage/" rel="nofollow">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" data-canonical-src="htt  ps://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+<!-- CSS3 -->
+<a href="https://www.w3.org/Style/CSS/" rel="nofollow">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+<!-- SASS -->
+<a href="https://sass-lang.com/" rel="nofollow">
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+<!-- JAVASCRIPT -->
+<a href="https://developer.mozilla.org//docs/Web/JavaScript" rel="nofollow">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+<!-- TYPESCRIPT -->
+<a href="https://www.typescriptlang.org/" rel="nofollow">
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+<!-- REACT -->
+<a href="https://react.dev/" rel="nofollow">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+<!-- FIGMA -->
+<a href="https://www.figma.com/" rel="nofollow">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+</div>
+
 ## Back-End
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<div style="display: flex;flex-wrap:wrap">
+
+<a href="https://www.php.net/" rel="nofollow">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+
+<a href="https://laravel.com/" rel="nofollow">
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+
+<a href="https://www.mysql.com/" rel="nofollow">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+
+<a href="https://nodejs.org/en" rel="nofollow">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+
+<a href="https://jwt.io/" rel="nofollow">
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+
+<a href="https://devdocs.io/bash/" rel="nofollow">
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+
+
+
+</div>
+
 ## Desktop Applications
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<div style="display: flex;flex-wrap:wrap">
 
+<a href="https://www.w3schools.com/c/c_intro.php" rel="nofollow">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
+<a href="https://learn.microsoft.com//cpp/cpp/?view=msvc-170" rel="nofollow">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
 
+<a href="https://learn.microsoft.com//dotnet/csharp/" rel="nofollow">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
 
+<a href="https://learn.microsoft.com//dotnet/core/introduction" rel="nofollow">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
+</a>
 
+</div>
 
+## Skills
+<div style="display: flex;flex-wrap:wrap">
 
+<a href="https://git-scm.com/" rel="nofollow">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
+</a>
 
+</div>
 
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=leandrovictor666&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
