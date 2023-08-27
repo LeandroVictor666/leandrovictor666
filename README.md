@@ -11,11 +11,11 @@
 ## Front-End
 <div style="display: flex;flex-wrap:wrap">
 <!-- HTML5 -->
-<a href="https://html.spec.whatwg.org/multipage/" rel="nofollow">
+<a href="https://html.spec.whatwg.org/multipage/" rel="nofollow" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" data-canonical-src="htt  ps://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
 </a>
 <!-- CSS3 -->
-<a href="https://www.w3.org/Style/CSS/" rel="nofollow">
+<a href="https://www.w3.org/Style/CSS/" rel="nofollow" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" data-canonical-src="https://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
 </a>
 <!-- SASS -->
