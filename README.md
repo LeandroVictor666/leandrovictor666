@@ -30,6 +30,9 @@ Mas caso seja de interesse, já atuei em projetos com diversas tecnologias difer
 - Ciência da Computação Na Estácio, 2024 - 2028 (Cursando)
 
 ---
+<br>
+
+
 
 ## Tecnologias que eu mais utilizo atualmente
 
