@@ -1,11 +1,3 @@
-## 🌐 Socials:
-
-<div style="display: flex;flex-wrap:wrap;margin-bottom:15px">
-
-
-</div>
-
-
 <h1><strong>0xd3adbeef 🖐</strong></h1>
 
 <br>
