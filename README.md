@@ -2,9 +2,7 @@
 
 <div style="display: flex;flex-wrap:wrap;margin-bottom:15px">
 
-<a href="https://www.linkedin.com/in/leandro-victor-da-silva-vilela-7654a326a/" rel="nofollow">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" data-canonical-src="htt  ps://img.shields.io/badge/git-F05032?&amp;style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;margin-right:5px;">
-</a>
+
 </div>
 
 
